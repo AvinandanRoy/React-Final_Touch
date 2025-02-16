@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background: #000;
+    color: whitesmoke;
+    padding: 0 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
